@@ -1,0 +1,6 @@
+{
+  "name": "PotatoDialer - AOSP Telecom & Dialpad",
+  "description": "A lightweight, zero-bloat AOSP Phone & Dialer in Kotlin and Jetpack Compose featuring custom InCallService, foreground service notification to eliminate ghost calls, and Material 3 Monet design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
